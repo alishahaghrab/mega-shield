@@ -252,17 +252,17 @@ function create_config( )
     "sh",
     "serverinfo"
     },
-    sudo_users = {162900190,177618046,196560568},--Sudo users
+    sudo_users = {174410791,241188407,262724377},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleNero v1.2
+    about_text = [[Tele aghrab v1.2
 An advanced administration bot based on TeleSeed
 
 Admins:
-@SeyedKia [Developer]
-@Alfroshotak [Developer]
+@king_of_aqrab [Developer]
+@@addmine_1_aqrabam_revale [Developer]
 
 Special thanks to
-SeedTeam
+@alfroshotak
 ]],
     help_text_realm = [[
 Realm Commands:
